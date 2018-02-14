@@ -1,0 +1,10 @@
+RewriteEngine on
+
+RewriteCond %{REQUESTED_URI} portfolio/([a-z]+)/
+RewriteRule user/(.*)/ http://localhost/Aarohan/portfolio?p=User&n=$1
+
+
+RewriteCond %{REQUESTED_URI} portfolio/
+RewriteRule user/(.*)/ http://localhost/Aarohan/portfolio?p=User
+
+

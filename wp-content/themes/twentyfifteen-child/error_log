@@ -1,0 +1,6 @@
+[22-Sep-2016 23:22:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_stylesheet_directory_uri() in /home/prsupa2016ravun/public_html/wp-content/themes/twentyfifteen-child/footer.php on line 9
+[22-Sep-2016 23:22:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/prsupa2016ravun/public_html/wp-content/themes/twentyfifteen-child/header.php on line 43
+[22-Sep-2016 23:22:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_header() in /home/prsupa2016ravun/public_html/wp-content/themes/twentyfifteen-child/index.php on line 17
+[23-Sep-2016 02:05:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_stylesheet_directory_uri() in /home/prsupa2016ravun/public_html/wp-content/themes/twentyfifteen-child/footer.php on line 9
+[23-Sep-2016 02:05:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/prsupa2016ravun/public_html/wp-content/themes/twentyfifteen-child/header.php on line 43
+[23-Sep-2016 02:05:56 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_header() in /home/prsupa2016ravun/public_html/wp-content/themes/twentyfifteen-child/index.php on line 17
